@@ -2,7 +2,7 @@
 ## Date:27.03.2024
 
 ## AIM:
-To develop a static company website to display the softwares and services provided by the company.
+To develop a static company website to display the softwares and services provided by the company
 
 ## DESIGN STEPS:
 
